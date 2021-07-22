@@ -1,7 +1,7 @@
 - 👋 Greetings, my name is Adrian-Tao Lai
 - 👀 I’m interested in Computers, Geography and Physics.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any open-source project I can 
+- 💞️ I’m looking to collaborate on any open-source project 
 - 📫 How to reach me:  
 
 <!---
