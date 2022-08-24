@@ -11,4 +11,4 @@ I'm a university student from Romania. When I have time I like learning somethin
 Whenever I find time, I will upload my projects on Github. I only upload functional projects.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=laiadriantao)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laiadriantao)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laiadriantao)
