@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm a university student from Romania. When I have time I like learning something new. When it comes to programming I enjoy trying out new things.
 
-Whenever I find time, I will upload my projects on Github. I only upload functional projects.
+Whenever I find time, I will upload my projects on Github. Unless it spans over a long time, I only upload when I finish my scripts and projects.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=laiadriantao) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laiadriantao)
