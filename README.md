@@ -10,3 +10,5 @@ I'm a university student from Romania. When I have time I like learning somethin
 
 Whenever I find time, I will upload my projects on Github. I only upload functional projects.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
