@@ -15,12 +15,12 @@
   
    <!-- Github Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=laiadriantao" style="height: 12em"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=laiadriantao" style="height: 20em"/>
   </a>
   
   <!-- Most Used Languages Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiadriantao" style="height: 12em"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiadriantao" style="height: 20em"/>
   </a>
 
   
