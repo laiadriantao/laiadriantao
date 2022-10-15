@@ -9,8 +9,13 @@
   
   <!-- Introductory Paragraph -->
   <p align="left">
-  I'm a Mechanical Engineering student from Romania. When I have time I like learning something new, when it comes to programming I enjoy trying out new    things.
-  Whenever I find time, I will upload my projects on Github. Unless it spans over a long time, I only upload when I finish my scripts and projects.
+  When I have time I like learning something new, when it comes to programming I enjoy trying out new things.
+  Whenever I find time, I will upload my projects on Github. Unless it spans over a long time, I will upload only when I finish the script or project I am working on.
+  </p>
+  
+  <!-- Introductory Paragraph -->
+  <p align="left">
+  I am currently a student of Mechanical Engineering at the Polytechnic University of Bucharest and of Computer Science at University of London. 
   </p>
   
    <!-- Github Stats -->
