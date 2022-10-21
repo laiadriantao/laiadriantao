@@ -9,7 +9,6 @@
   
   <!-- Introductory Paragraph -->
   <p align="left">
-  When I have time I like learning something new, when it comes to programming I enjoy trying out new things.
   Whenever I find time, I will upload my projects on Github. Unless it spans over a long time, I will upload only when I finish the script or project I am working on.
   </p>
   
