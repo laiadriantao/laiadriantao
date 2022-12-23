@@ -27,5 +27,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiadriantao" style="height: 16em"/>
   </a>
 
-  
+  ![image](https://www.codewars.com/users/laiadriantao/badges/large)
 </div>
